@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3qak6KX1WAve4xFeTYpH0J",
+    "id" : "2NcYj2vmCw4iVPgpyu0EWu",
     "name" : "FrsMappingCheck",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100001700000000005E"
+        "repoHandle" : "010000170000000000AB"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "modified12334",
+        "description" : "modified12334_modified_tx",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "0wUCMpxtegtj9FmRa2hbwf",
-    "name" : "flatfile",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100000B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "8SHiVgl0c47kF1UUDYFeUi",
+    "id" : "3SIhMKb1Usxd7uoz2PgLSV",
     "name" : "Oracle",
     "type" : "Connection",
     "metadata" : {
@@ -53,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100000B000000000003"
+        "repoHandle" : "0100000B000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
