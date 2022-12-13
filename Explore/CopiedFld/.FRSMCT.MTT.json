@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "test234",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
@@ -40,26 +40,6 @@
         "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "0wUCMpxtegtj9FmRa2hbwf",
-    "name" : "flatfile",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100000B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
@@ -100,7 +80,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "modified12334",
+        "description" : "modified12334_modified_tx",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
