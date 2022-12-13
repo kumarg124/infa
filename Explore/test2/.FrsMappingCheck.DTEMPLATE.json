@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "gGefjCk58mYiiZzIZxQ30W",
+    "id" : "0qjjDBBuK8TbgLq3FSu1gu",
     "name" : "FrsMappingCheck",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010000170000000000A7"
+        "repoHandle" : "0100001700000000005B"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "0cG9vDYHXPzcAQMIirhC4e",
-    "name" : "FlatFileConnection",
+    "id" : "0wUCMpxtegtj9FmRa2hbwf",
+    "name" : "flatfile",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -44,8 +44,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "apyZFhAK91Mj9ikQFJCfIw",
-    "name" : "Oracle1",
+    "id" : "8SHiVgl0c47kF1UUDYFeUi",
+    "name" : "Oracle",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,11 +53,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100000B00000000001B"
+        "repoHandle" : "0100000B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "test",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
