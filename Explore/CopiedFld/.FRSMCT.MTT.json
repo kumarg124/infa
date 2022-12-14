@@ -75,7 +75,10 @@
       "repoInfo" : {
         "repoHandle" : "010000170000000000AB"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "modified12334_modified_tx",
         "contentType" : "JSON",
