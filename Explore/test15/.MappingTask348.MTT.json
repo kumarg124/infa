@@ -24,26 +24,6 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "0cG9vDYHXPzcAQMIirhC4e",
-    "name" : "FlatFileConnection",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100000B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
     "id" : "1Xs0YqNZUQ1jk91l4fWbad",
     "name" : "Mapping279",
     "type" : "DTEMPLATE",
@@ -66,6 +46,26 @@
       }
     },
     "path" : "/Explore/test15"
+  }, {
+    "id" : "2wwYLHOkXFXhPTPCuxDTA0",
+    "name" : "flatfileConnection_tgt",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100000B000000000013"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
   }, {
     "id" : "7SyyQk5Ayh3jy9oyn0Fwms",
     "name" : "SQLServer",
