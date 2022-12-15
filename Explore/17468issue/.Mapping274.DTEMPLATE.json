@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "0cG9vDYHXPzcAQMIirhC4e",
-    "name" : "FlatFileConnection",
+    "id" : "9CRdY0R9JkobtT7mXSL66I",
+    "name" : "FlatFileConnection1",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100000B000000000002"
+        "repoHandle" : "0100000B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
