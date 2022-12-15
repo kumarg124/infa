@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "test",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -60,15 +60,15 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "test1",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
     "path" : "/Explore/17468issue"
   }, {
-    "id" : "7SyyQk5Ayh3jy9oyn0Fwms",
-    "name" : "SQLServer",
+    "id" : "aSvCY5VKnuAb5xQzYOxMqO",
+    "name" : "SalesForce",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -76,7 +76,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100000B00000000000W"
+        "repoHandle" : "0100000B00000000000D"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
