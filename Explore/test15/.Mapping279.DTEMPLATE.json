@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "test my deffdf",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "2wwYLHOkXFXhPTPCuxDTA0",
-    "name" : "flatfileConnection_tgt",
+    "id" : "9CRdY0R9JkobtT7mXSL66I",
+    "name" : "FlatFileConnection1",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100000B000000000013"
+        "repoHandle" : "0100000B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
